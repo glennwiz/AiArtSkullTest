@@ -17,7 +17,12 @@ In this repository, we're on a mission to unlock the secrets of the mysterious s
 
 ## Join the Adventure!
 
-If you want to join in on the fun, just fork the repository and submit a pull request with your own findings and ideas. All contributions, big or small, are welcome on this journey.
+Are you ready to join us on this ride through the world of 3-6-9? Here's how you can get involved:
+
+1. Use the seed value of 369 to generate a variety of crazy and amazing images.
+2. Feel free to use any prompts or techniques you like, and play around with image sizes and resolutions.
+3. Submit your creations as a pull request to this repository.
+4. Make sure to include information about the model you used in your submission.
 
 
 ![00066-2417705065-highly detailed surreal 3-6-9 __Nikola Tesla was a Serbian-American 5 6 7  inventor, electrical engineer, mechanical engineer,](https://user-images.githubusercontent.com/195927/211111274-17ab4810-5d2f-419a-8eac-ae23a309a05d.png)
