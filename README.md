@@ -22,3 +22,5 @@ Added negtive prompt:
 SD: 
 - ![image](https://user-images.githubusercontent.com/195927/211082755-dd65da61-5bf7-4b7a-95c3-ae74510688a1.png)
 
+![image](https://user-images.githubusercontent.com/195927/211082899-6e961c43-71cb-4473-ba8d-542fd795ba8c.png)
+![image](https://user-images.githubusercontent.com/195927/211082957-547ef6d0-b575-46ea-9461-31d233907065.png)
