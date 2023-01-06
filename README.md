@@ -13,3 +13,5 @@ In this repository, we're on a mission to unlock the secrets of the mysterious s
 ## Join the Adventure!
 
 If you want to join in on the fun, just fork the repository and submit a pull request with your own findings and ideas. All contributions, big or small, are welcome on this journey.
+
+[Experiment1(styles_V1.md)
