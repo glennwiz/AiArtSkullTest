@@ -2,7 +2,7 @@
 A repo to test the diffrent styles AI gen: same seed 369, diffrent all other props.
 
 Styles File:
-[Styles_v1](styles_V1.CSV)
+[Styles_v1](styles_V1.csv)
 
 ![image](https://user-images.githubusercontent.com/195927/211082427-9ecf297e-068f-4743-a483-a0b24a0a648a.png)
 
