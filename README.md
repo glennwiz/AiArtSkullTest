@@ -14,3 +14,11 @@ SD: no settings:
 
 Midjourney:
 ![image](https://user-images.githubusercontent.com/195927/211079424-eff77415-a8f6-49d4-a4da-6656ffad8921.png)
+
+-----
+Added negtive prompt:
+. Disfigured, bad art, amateur, poorly drawn, ugly, flat, deformed, poorly drawn, extra limbs, close up, b&w, weird colors, lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry
+
+SD: 
+- ![image](https://user-images.githubusercontent.com/195927/211082755-dd65da61-5bf7-4b7a-95c3-ae74510688a1.png)
+
