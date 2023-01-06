@@ -9,7 +9,7 @@ Welcome to the world of the mysterious 3-6-9! In this repository, we'll be divin
 
 ## The Story So Far...
 
-According to Tesla, the numbers 3, 6, and 9 hold the key to understanding the fundamental laws of nature. But is there any truth to this theory? That's what we're here to chip away at, one drop at a time!
+According to the brilliant Nikola Tesla, the numbers 3, 6, and 9 hold the key to understanding the fundamental laws of nature. In this repository, we'll be using the power of 3-6-9 to generate a variety of wild and wonderful images and having a blast in the process. Whether you're a seasoned artist or a complete novice, everyone is welcome to join in on the fun! So, are you ready to dive into the mysterious world of 3-6-9 with us?
 
 ## Our Mission
 
