@@ -10,9 +10,11 @@ SD: styles
 - soap bubbles, lasers, Viking GOD with wolf skull. beautiful intricately detailed alien organicltech biomechanical crow kitsune mask and clasical maya technopunk steam style. betta fish, jellyfish phoenix, bio luminescent, plasma, ice, water, wind, creature, artwork by tooth wu and wlop and beeple and greg rutkowski
 
 SD: no settings:
+
 ![image](https://user-images.githubusercontent.com/195927/211082270-d4ac63eb-4bff-4f2c-94ab-84835f40bd63.png)
 
 Midjourney:
+
 ![image](https://user-images.githubusercontent.com/195927/211079424-eff77415-a8f6-49d4-a4da-6656ffad8921.png)
 
 -----
@@ -55,12 +57,14 @@ SD:
 ![image](https://user-images.githubusercontent.com/195927/211094250-3af6fef3-7a66-4bc3-a619-b8f8a30bbd6d.png)
 ---
 ![image](https://user-images.githubusercontent.com/195927/211094789-a045a0c3-827a-4e98-ad8b-8a3aad848c2b.png)
+
 ![image](https://user-images.githubusercontent.com/195927/211094823-64472a84-8fad-4d92-9da3-a92bf6fc3f37.png)
 ---
 ![image](https://user-images.githubusercontent.com/195927/211094934-bc45ca4d-3ed3-417a-a248-3fa4ffa17e7f.png)
 ![image](https://user-images.githubusercontent.com/195927/211094963-5886ab33-d9c3-4791-8907-e4705622b583.png)
 ---
 ![image](https://user-images.githubusercontent.com/195927/211095156-a4cf4d7a-8f7c-4543-8ad2-74627bb0cfe2.png)
+
 ![image](https://user-images.githubusercontent.com/195927/211095226-32a145b7-49f4-4d79-a862-9d70494985e1.png)
 
 
