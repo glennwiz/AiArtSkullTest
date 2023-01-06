@@ -1,3 +1,8 @@
+
+![image](https://user-images.githubusercontent.com/195927/211108972-6b2ff1d9-0043-416a-95e4-2a08155982e0.png)
+
+[Experiment1](styles_V1.md)
+
 # The Mysterious 3-6-9
 
 Welcome to the world of the mysterious 3-6-9! In this repository, we'll be diving into the mind of the brilliant Nikola Tesla, he spoke: "these numbers hold some kind of special energy or power!" Are you ready to unlock the secrets of the seed 369 with us?
@@ -14,4 +19,4 @@ In this repository, we're on a mission to unlock the secrets of the mysterious s
 
 If you want to join in on the fun, just fork the repository and submit a pull request with your own findings and ideas. All contributions, big or small, are welcome on this journey.
 
-[Experiment1](styles_V1.md)
+
