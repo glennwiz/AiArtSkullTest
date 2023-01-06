@@ -47,7 +47,6 @@ SD:
 ![image](https://user-images.githubusercontent.com/195927/211085576-09cdcfbe-3588-4814-9063-92ea9e2efde2.png)
 ---
 ![image](https://user-images.githubusercontent.com/195927/211085669-25680d7e-b7da-4256-8e68-c51d89fadd1a.png)
-
 ![image](https://user-images.githubusercontent.com/195927/211085757-db9093ce-b809-4874-b29a-97c814073095.png)
 ---
 
