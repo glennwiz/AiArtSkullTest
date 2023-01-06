@@ -1,6 +1,6 @@
 # The Mysterious 3-6-9
 
-Welcome to the world of the mysterious 3-6-9! In this repository, we'll be diving into the mind of the brilliant Nikola Tesla, he spoke these numbers hold some kind of special energy or power! Are you ready to unlock the secrets of the seed 369 with us?
+Welcome to the world of the mysterious 3-6-9! In this repository, we'll be diving into the mind of the brilliant Nikola Tesla, he spoke: "these numbers hold some kind of special energy or power!" Are you ready to unlock the secrets of the seed 369 with us?
 
 ## The Story So Far...
 
