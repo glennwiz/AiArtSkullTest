@@ -1,7 +1,7 @@
 
 ![image](https://user-images.githubusercontent.com/195927/211108972-6b2ff1d9-0043-416a-95e4-2a08155982e0.png)
 
-[Experiment1](styles_V1.md)
+[Ai Styles: file -> Random Prompt -> Styles_v1](styles_V1.md)
 
 # The Mysterious 3-6-9
 
